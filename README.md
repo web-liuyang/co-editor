@@ -11,4 +11,4 @@ TypeScript co-editor 多人协作编辑器
 
 ## Demo
 
-<video src="./demo/co-editor.mov"></video>
+<video src="https://github.com/web-liuyang/co-editor/assets/52391595/27d80d65-5aae-4426-95f1-3d52860323c4"></video>
