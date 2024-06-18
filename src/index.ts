@@ -1,4 +1,4 @@
-import Application from "./lib/index";
+import Application from "./lib/application";
 
 (window => {
   const oApp = document.getElementById("app")!;
